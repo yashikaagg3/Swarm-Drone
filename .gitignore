@@ -1,0 +1,6 @@
+build/
+install/
+log/
+PX4-Autopilot/
+*.pyc
+__pycache__/
